@@ -1,0 +1,92 @@
+2010-03-01 10:04:11,756 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    File does not exist. - HttpException @ (:0)
+2010-03-01 10:04:12,896 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    File does not exist. - HttpException @ (:0)
+2010-03-01 10:16:27,865 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Path '/Esapi.Master' is forbidden. - HttpException @ (:0)
+2010-03-01 10:20:48,271 WARN  Owasp.Esapi SECURITY: : The login attempt failed for user marcio.
+2010-03-01 10:21:37,037 INFO  Owasp.Esapi SECURITY: : Non-existent user sadsad unsuccessfully requested password reset email.
+2010-03-01 10:21:43,771 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:43,771 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:43,990 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,068 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,068 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,068 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,084 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,084 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,084 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,115 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,115 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,115 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,146 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,146 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,146 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,146 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,146 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,146 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,162 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,162 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,162 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,162 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,162 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,162 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,162 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,162 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,162 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,178 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,178 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,178 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,178 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,178 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,178 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,193 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,193 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,193 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,193 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,193 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,193 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,209 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,209 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,209 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,209 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,209 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,209 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,225 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,225 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,225 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,225 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,225 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,225 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,225 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,225 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,225 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,240 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,240 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,240 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,240 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,240 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,240 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)
+2010-03-01 10:21:44,240 ERROR Owasp.Esapi SECURITY: : INTRUSION - Maximum request count exceeded
+2010-03-01 10:21:44,240 FATAL Owasp.Esapi SECURITY: : Maximum request count exceeded
+2010-03-01 10:21:44,240 ERROR Owasp.Esapi FUNCTIONALITY: : Unspecified top-level error occured
+    Object reference not set to an instance of an object. - NullReferenceException @ (C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\Esapi\Runtime\ContextRule.cs:77)

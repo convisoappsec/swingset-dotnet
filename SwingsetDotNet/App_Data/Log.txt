@@ -1,0 +1,118 @@
+2010-02-23 18:27:28,575 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-23 18:30:40,560 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-23 18:38:11,435 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-23 19:01:01,718 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-23 19:08:05,781 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 10:44:50,521 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 10:46:51,536 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:09:01,443 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:09:41,193 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:16:19,661 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:17:22,833 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:23:27,724 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:31:39,114 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:32:40,792 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:34:16,074 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:36:16,074 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:37:54,167 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:38:55,589 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:42:01,339 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:46:44,495 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:51:23,433 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:52:40,433 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:59:02,167 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 11:59:54,839 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 12:00:28,511 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 12:01:51,058 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 12:10:33,636 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 12:13:47,339 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 12:15:40,339 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-02-24 15:49:34,438 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-03-01 09:57:23,346 WARN  Owasp.Esapi UNDEFINED: MARCIO-D4803425\Administrador: Failed to load validation rule assembly
+    An item with the same key has already been added. - ArgumentException @ (:0)
+2010-03-04 13:19:55,493 WARN  Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: Failed to decrypt : Source array was not long enough. Check srcIndex and length, and the array's lower bounds.
+2010-03-04 13:19:55,681 WARN  Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: Seal did not decrypt properly
+2010-03-04 13:20:02,993 WARN  Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: Failed to decrypt : Source array was not long enough. Check srcIndex and length, and the array's lower bounds.
+2010-03-04 13:20:03,009 WARN  Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: Seal did not decrypt properly
+2010-03-04 13:20:04,462 WARN  Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: Failed to decrypt : Source array was not long enough. Check srcIndex and length, and the array's lower bounds.
+2010-03-04 13:20:04,462 WARN  Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: Seal did not decrypt properly
+2010-03-04 13:20:05,743 WARN  Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: Failed to decrypt : Source array was not long enough. Check srcIndex and length, and the array's lower bounds.
+2010-03-04 13:20:05,743 WARN  Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: Seal did not decrypt properly
+2010-03-08 10:41:56,942 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:41:56,989 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:43:42,927 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:43:42,942 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:45:12,552 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:47:42,427 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:47:42,427 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:49:11,239 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:49:14,958 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:49:16,692 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:49:17,833 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:49:18,208 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:49:18,942 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:49:19,567 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:50:07,802 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:50:43,661 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:51:28,583 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:51:28,598 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:53:38,567 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:54:10,973 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:55:05,786 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:55:10,552 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:56:12,442 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:56:21,708 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:56:23,911 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:56:24,958 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:57:11,583 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:57:31,208 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:58:09,333 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:58:09,348 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:59:02,645 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 10:59:02,661 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 11:00:17,145 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 11:00:26,552 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 11:00:28,567 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 11:00:28,567 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 11:58:30,928 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 11:58:35,631 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:01:59,147 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:03:06,240 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:17:16,850 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:17:22,647 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:18:44,850 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:18:44,943 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:22:17,068 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:22:24,115 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:24:37,725 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected
+2010-03-08 12:24:43,787 ERROR Owasp.Esapi SECURITY: MARCIO-D4803425\Administrador: INTRUSION - Multiple (3x) encoding detected

@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\EsapiTest.dll.config
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\EsapiTest.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\EsapiTest.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\Owasp.Esapi.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\Rhino.Mocks.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\AntiXssLibrary.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\Owasp.Esapi.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\Owasp.Esapi.xml
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\bin\Debug\Rhino.Mocks.xml
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\obj\Debug\EsapiTest.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\EsapiTest\obj\Debug\EsapiTest.pdb

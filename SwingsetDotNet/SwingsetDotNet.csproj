@@ -1,0 +1,499 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{67D87899-0405-40BE-923C-A4264C04AAA4}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SwingsetDotNet</RootNamespace>
+    <AssemblyName>SwingsetDotNet</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkSubset>Full</TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AccessControlInsecure.aspx" />
+    <Content Include="AccessControlSecure.aspx" />
+    <Content Include="AccessControlTutorial.aspx" />
+    <Content Include="BrowserCachingInsecure.aspx" />
+    <Content Include="BrowserCachingSecure.aspx" />
+    <Content Include="BrowserCachingTutorial.aspx" />
+    <Content Include="CanonicalizeInsecure.aspx" />
+    <Content Include="CanonicalizeSecure.aspx" />
+    <Content Include="CanonicalizeTutorial.aspx" />
+    <Content Include="ChangeSessionIdentifierInsecure.aspx" />
+    <Content Include="ChangeSessionIdentifierSecure.aspx" />
+    <Content Include="ChangeSessionIdentifierTutorial.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="EncodingInsecure.aspx" />
+    <Content Include="EncodingSecure.aspx" />
+    <Content Include="EncodingTutorial.aspx" />
+    <Content Include="EncryptionInsecure.aspx" />
+    <Content Include="EncryptionSecure.aspx" />
+    <Content Include="EncryptionTutorial.aspx" />
+    <Content Include="footer.aspx" />
+    <Content Include="GUIDInsecure.aspx" />
+    <Content Include="GUIDSecure.aspx" />
+    <Content Include="GUIDTutorial.aspx" />
+    <Content Include="header.aspx" />
+    <Content Include="IntegrityInsecure.aspx" />
+    <Content Include="IntegritySecure.aspx" />
+    <Content Include="IntegrityTutorial.aspx" />
+    <Content Include="javascript\jquery-1.2.6.js" />
+    <Content Include="main.aspx" />
+    <Content Include="ObjectReferenceInsecure.aspx" />
+    <Content Include="ObjectReferenceSecure.aspx" />
+    <Content Include="ObjectReferenceTutorial.aspx" />
+    <Content Include="OutputUserInputInsecure.aspx" />
+    <Content Include="OutputUserInputSecure.aspx" />
+    <Content Include="OutputUserInputTutorial.aspx" />
+    <Content Include="RandomizerInsecure.aspx" />
+    <Content Include="RandomizerSecure.aspx" />
+    <Content Include="RandomizerTutorial.aspx" />
+    <Content Include="RichContentInsecure.aspx" />
+    <Content Include="RichContentSecure.aspx" />
+    <Content Include="RichContentTutorial.aspx" />
+    <Content Include="style\images\body_bg.jpg" />
+    <Content Include="style\images\header_home.jpg" />
+    <Content Include="style\images\logo.gif" />
+    <Content Include="style\images\owasp-logo_130x55.png" />
+    <Content Include="style\style.css" />
+    <Content Include="temp.aspx" />
+    <Content Include="test.aspx" />
+    <Content Include="test1.aspx" />
+    <Content Include="ValidateUserInputInsecure.aspx" />
+    <Content Include="ValidateUserInputSecure.aspx" />
+    <Content Include="ValidateUserInputTutorial.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="XSSInsecure.aspx" />
+    <Content Include="XSSSecure.aspx" />
+    <Content Include="XSSTutorial.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccessControlInsecure.aspx.cs">
+      <DependentUpon>AccessControlInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccessControlInsecure.aspx.designer.cs">
+      <DependentUpon>AccessControlInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AccessControlSecure.aspx.cs">
+      <DependentUpon>AccessControlSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccessControlSecure.aspx.designer.cs">
+      <DependentUpon>AccessControlSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AccessControlTutorial.aspx.cs">
+      <DependentUpon>AccessControlTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccessControlTutorial.aspx.designer.cs">
+      <DependentUpon>AccessControlTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BrowserCachingInsecure.aspx.cs">
+      <DependentUpon>BrowserCachingInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BrowserCachingInsecure.aspx.designer.cs">
+      <DependentUpon>BrowserCachingInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BrowserCachingSecure.aspx.cs">
+      <DependentUpon>BrowserCachingSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BrowserCachingSecure.aspx.designer.cs">
+      <DependentUpon>BrowserCachingSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BrowserCachingTutorial.aspx.cs">
+      <DependentUpon>BrowserCachingTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BrowserCachingTutorial.aspx.designer.cs">
+      <DependentUpon>BrowserCachingTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CanonicalizeInsecure.aspx.cs">
+      <DependentUpon>CanonicalizeInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CanonicalizeInsecure.aspx.designer.cs">
+      <DependentUpon>CanonicalizeInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CanonicalizeSecure.aspx.cs">
+      <DependentUpon>CanonicalizeSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CanonicalizeSecure.aspx.designer.cs">
+      <DependentUpon>CanonicalizeSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CanonicalizeTutorial.aspx.cs">
+      <DependentUpon>CanonicalizeTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CanonicalizeTutorial.aspx.designer.cs">
+      <DependentUpon>CanonicalizeTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeSessionIdentifierInsecure.aspx.cs">
+      <DependentUpon>ChangeSessionIdentifierInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangeSessionIdentifierInsecure.aspx.designer.cs">
+      <DependentUpon>ChangeSessionIdentifierInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeSessionIdentifierSecure.aspx.cs">
+      <DependentUpon>ChangeSessionIdentifierSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangeSessionIdentifierSecure.aspx.designer.cs">
+      <DependentUpon>ChangeSessionIdentifierSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeSessionIdentifierTutorial.aspx.cs">
+      <DependentUpon>ChangeSessionIdentifierTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangeSessionIdentifierTutorial.aspx.designer.cs">
+      <DependentUpon>ChangeSessionIdentifierTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EncodingInsecure.aspx.cs">
+      <DependentUpon>EncodingInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EncodingInsecure.aspx.designer.cs">
+      <DependentUpon>EncodingInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EncodingSecure.aspx.cs">
+      <DependentUpon>EncodingSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EncodingSecure.aspx.designer.cs">
+      <DependentUpon>EncodingSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EncodingTutorial.aspx.cs">
+      <DependentUpon>EncodingTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EncodingTutorial.aspx.designer.cs">
+      <DependentUpon>EncodingTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EncryptionInsecure.aspx.cs">
+      <DependentUpon>EncryptionInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EncryptionInsecure.aspx.designer.cs">
+      <DependentUpon>EncryptionInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EncryptionSecure.aspx.cs">
+      <DependentUpon>EncryptionSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EncryptionSecure.aspx.designer.cs">
+      <DependentUpon>EncryptionSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EncryptionTutorial.aspx.cs">
+      <DependentUpon>EncryptionTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EncryptionTutorial.aspx.designer.cs">
+      <DependentUpon>EncryptionTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="footer.aspx.cs">
+      <DependentUpon>footer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="footer.aspx.designer.cs">
+      <DependentUpon>footer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GUIDInsecure.aspx.cs">
+      <DependentUpon>GUIDInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUIDInsecure.aspx.designer.cs">
+      <DependentUpon>GUIDInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GUIDSecure.aspx.cs">
+      <DependentUpon>GUIDSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUIDSecure.aspx.designer.cs">
+      <DependentUpon>GUIDSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GUIDTutorial.aspx.cs">
+      <DependentUpon>GUIDTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUIDTutorial.aspx.designer.cs">
+      <DependentUpon>GUIDTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="header.aspx.cs">
+      <DependentUpon>header.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="header.aspx.designer.cs">
+      <DependentUpon>header.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IntegrityInsecure.aspx.cs">
+      <DependentUpon>IntegrityInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IntegrityInsecure.aspx.designer.cs">
+      <DependentUpon>IntegrityInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IntegritySecure.aspx.cs">
+      <DependentUpon>IntegritySecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IntegritySecure.aspx.designer.cs">
+      <DependentUpon>IntegritySecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IntegrityTutorial.aspx.cs">
+      <DependentUpon>IntegrityTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IntegrityTutorial.aspx.designer.cs">
+      <DependentUpon>IntegrityTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main.aspx.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main.aspx.designer.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ObjectReferenceInsecure.aspx.cs">
+      <DependentUpon>ObjectReferenceInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ObjectReferenceInsecure.aspx.designer.cs">
+      <DependentUpon>ObjectReferenceInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ObjectReferenceSecure.aspx.cs">
+      <DependentUpon>ObjectReferenceSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ObjectReferenceSecure.aspx.designer.cs">
+      <DependentUpon>ObjectReferenceSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ObjectReferenceTutorial.aspx.cs">
+      <DependentUpon>ObjectReferenceTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ObjectReferenceTutorial.aspx.designer.cs">
+      <DependentUpon>ObjectReferenceTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OutputUserInputInsecure.aspx.cs">
+      <DependentUpon>OutputUserInputInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OutputUserInputInsecure.aspx.designer.cs">
+      <DependentUpon>OutputUserInputInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OutputUserInputSecure.aspx.cs">
+      <DependentUpon>OutputUserInputSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OutputUserInputSecure.aspx.designer.cs">
+      <DependentUpon>OutputUserInputSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OutputUserInputTutorial.aspx.cs">
+      <DependentUpon>OutputUserInputTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OutputUserInputTutorial.aspx.designer.cs">
+      <DependentUpon>OutputUserInputTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomizerInsecure.aspx.cs">
+      <DependentUpon>RandomizerInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RandomizerInsecure.aspx.designer.cs">
+      <DependentUpon>RandomizerInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RandomizerSecure.aspx.cs">
+      <DependentUpon>RandomizerSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RandomizerSecure.aspx.designer.cs">
+      <DependentUpon>RandomizerSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RandomizerTutorial.aspx.cs">
+      <DependentUpon>RandomizerTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RandomizerTutorial.aspx.designer.cs">
+      <DependentUpon>RandomizerTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichContentInsecure.aspx.cs">
+      <DependentUpon>RichContentInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichContentInsecure.aspx.designer.cs">
+      <DependentUpon>RichContentInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichContentSecure.aspx.cs">
+      <DependentUpon>RichContentSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichContentSecure.aspx.designer.cs">
+      <DependentUpon>RichContentSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichContentTutorial.aspx.cs">
+      <DependentUpon>RichContentTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichContentTutorial.aspx.designer.cs">
+      <DependentUpon>RichContentTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="temp.aspx.cs">
+      <DependentUpon>temp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="temp.aspx.designer.cs">
+      <DependentUpon>temp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="test.aspx.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="test.aspx.designer.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="test1.aspx.cs">
+      <DependentUpon>test1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="test1.aspx.designer.cs">
+      <DependentUpon>test1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ValidateUserInputInsecure.aspx.cs">
+      <DependentUpon>ValidateUserInputInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ValidateUserInputInsecure.aspx.designer.cs">
+      <DependentUpon>ValidateUserInputInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ValidateUserInputSecure.aspx.cs">
+      <DependentUpon>ValidateUserInputSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ValidateUserInputSecure.aspx.designer.cs">
+      <DependentUpon>ValidateUserInputSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ValidateUserInputTutorial.aspx.cs">
+      <DependentUpon>ValidateUserInputTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ValidateUserInputTutorial.aspx.designer.cs">
+      <DependentUpon>ValidateUserInputTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="XSSInsecure.aspx.cs">
+      <DependentUpon>XSSInsecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="XSSInsecure.aspx.designer.cs">
+      <DependentUpon>XSSInsecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="XSSSecure.aspx.cs">
+      <DependentUpon>XSSSecure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="XSSSecure.aspx.designer.cs">
+      <DependentUpon>XSSSecure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="XSSTutorial.aspx.cs">
+      <DependentUpon>XSSTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="XSSTutorial.aspx.designer.cs">
+      <DependentUpon>XSSTutorial.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Esapi\Esapi.csproj">
+      <Project>{3824A00A-9C77-4679-8633-7C7CB2572FF2}</Project>
+      <Name>Esapi</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>3313</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\bin\SwingsetDotNet.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\bin\SwingsetDotNet.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\bin\Owasp.Esapi.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\bin\AntiXssLibrary.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\bin\log4net.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\bin\Owasp.Esapi.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\bin\Owasp.Esapi.xml
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\obj\Debug\SwingsetDotNet.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\ESAPI_DOTNET\SwingsetDotNet\obj\Debug\SwingsetDotNet.pdb
